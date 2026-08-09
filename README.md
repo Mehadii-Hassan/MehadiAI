@@ -17,7 +17,7 @@ MehadiAI is an intelligent AI assistant application built with FastAPI, LangChai
 
 ## Live Demo
 
-- Render Deployment: [Add your Render link here](YOUR_RENDER_URL_HERE)
+- Render Deployment: https://mehadiai.onrender.com
 
 ## Tech Stack
 
