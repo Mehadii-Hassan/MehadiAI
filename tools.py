@@ -21,7 +21,7 @@ web_search = TavilySearch(
     max_results=5,
     topic="general",
     search_depth="advanced"
-)
+)  
 
 
 @tool
